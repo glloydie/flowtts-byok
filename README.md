@@ -1,4 +1,4 @@
-# FlowTTS BYOK Replicate
+# FlowTTS BYOK
 
 基于腾讯云 FlowTTS 的语音合成服务封装，支持 BYOK（Bring Your Own Key）模式。
 
@@ -8,12 +8,12 @@
 |------|------|------|
 | **Replicate** | https://replicate.com/chicogong/flow-tts | API + Playground |
 | **Hugging Face** | https://huggingface.co/spaces/gonghaoran/flow-tts | 免费 Gradio 演示 |
-| **Google Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicogong/flowtts-byok-replicate/blob/master/colab/FlowTTS_Demo.ipynb) | 交互式 Notebook |
+| **Google Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicogong/flowtts-byok/blob/master/colab/FlowTTS_Demo.ipynb) | 交互式 Notebook |
 
 ## 项目结构
 
 ```
-flowtts-byok-replicate/
+flowtts-byok/
 ├── README.md           # 主文档
 ├── cog.yaml            # Replicate 配置
 ├── predict.py          # Replicate 代码
@@ -63,7 +63,7 @@ flowtts-byok-replicate/
 
 点击下方按钮直接在 Colab 中运行：
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicogong/flowtts-byok-replicate/blob/master/colab/FlowTTS_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicogong/flowtts-byok/blob/master/colab/FlowTTS_Demo.ipynb)
 
 ### 方式三：Replicate Web Playground
 
