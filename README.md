@@ -19,6 +19,18 @@
 | **Google Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicogong/flowtts-byok/blob/master/colab/FlowTTS_Demo.ipynb) | 交互式 Notebook |
 | **Replit** | [Run on Replit](https://replit.com/github/chicogong/flowtts-byok) | 在线 IDE + 部署 |
 
+## SDK
+
+如果你想在自己的项目中集成 FlowTTS，可以使用我们的多语言 SDK：
+
+| 语言 | 包名 | 安装命令 |
+|------|------|----------|
+| **Node.js** | [flow-tts](https://www.npmjs.com/package/flow-tts) | `npm install flow-tts` |
+| **Python** | [flow-tts](https://pypi.org/project/flow-tts/) | `pip install flow-tts` |
+| **Go** | [flow-tts/go](https://pkg.go.dev/github.com/chicogong/flow-tts/go) | `go get github.com/chicogong/flow-tts/go` |
+
+详细文档：[github.com/chicogong/flow-tts](https://github.com/chicogong/flow-tts)
+
 ## 项目结构
 
 ```
