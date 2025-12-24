@@ -19,6 +19,20 @@
 | **Google Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicogong/flowtts-byok/blob/master/colab/FlowTTS_Demo.ipynb) | 交互式 Notebook |
 | **Replit** | [Run on Replit](https://replit.com/github/chicogong/flowtts-byok) | 在线 IDE + 部署 |
 
+### 界面预览
+
+| Replicate | Hugging Face |
+|-----------|--------------|
+| ![Replicate](screenshots/replicate.png) | ![Hugging Face](screenshots/huggingface.png) |
+
+| Streamlit | Google Colab |
+|-----------|--------------|
+| ![Streamlit](screenshots/streamlit.png) | ![Colab](screenshots/colab.png) |
+
+| Replit |
+|--------|
+| ![Replit](screenshots/replit.png) |
+
 ## SDK
 
 如果你想在自己的项目中集成 FlowTTS，可以使用我们的多语言 SDK：
@@ -53,6 +67,12 @@ flowtts-byok/
 │   └── requirements.txt
 ├── colab/              # Google Colab Notebook
 │   └── FlowTTS_Demo.ipynb
+├── screenshots/        # 界面截图
+│   ├── replicate.png
+│   ├── huggingface.png
+│   ├── streamlit.png
+│   ├── colab.png
+│   └── replit.png
 └── examples/           # 示例输出
     └── sample_output.wav
 ```
