@@ -21,5 +21,5 @@ license: mit
 
 ## 相关链接
 
-- [GitHub](https://github.com/chicogong/flowtts-byok-replicate)
+- [GitHub](https://github.com/chicogong/flowtts-byok)
 - [Replicate](https://replicate.com/chicogong/flow-tts)
